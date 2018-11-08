@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update sys_domain="global" table="sysevent_email_action">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="c90a2b444a3623120064ed56263be407" table="sysevent_email_action">
     <sysevent_email_action action="INSERT_OR_UPDATE">
         <action_insert>false</action_insert>
         <action_update>false</action_update>
-        <active>true</active>
+        <active>false</active>
         <advanced_condition/>
         <affected_field_on_event/>
         <category display_value="Uncategorized" name="Uncategorized">c97d83137f4432005f58108c3ffa917a</category>
@@ -15,8 +14,8 @@
         <digest_from/>
         <digest_html/>
         <digest_reply_to/>
-        <digest_separator_html/>
-        <digest_separator_text/>
+        <digest_separator_html><![CDATA[<br><hr><br>]]></digest_separator_html>
+        <digest_separator_text><![CDATA[\n--------------------------------------------------------------------------------\n]]></digest_separator_text>
         <digest_subject/>
         <digest_template/>
         <digest_text/>
@@ -60,19 +59,19 @@
         <subscribable>false</subscribable>
         <sys_class_name>sysevent_email_action</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-04-14 19:31:52</sys_created_on>
-        <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
-        <sys_id>c003c7f60fc272000d030dbce1050e3b</sys_id>
-        <sys_mod_count>15</sys_mod_count>
+        <sys_created_on>2018-11-06 00:58:30</sys_created_on>
+        <sys_domain>c90a2b444a3623120064ed56263be407</sys_domain>
+        <sys_domain_path>!!!/!!#/</sys_domain_path>
+        <sys_id>14e96f92db212300eeded5f0cf961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>Overdue NeedIt Task</sys_name>
         <sys_overrides/>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sysevent_email_action_c003c7f60fc272000d030dbce1050e3b</sys_update_name>
+        <sys_update_name>sysevent_email_action_14e96f92db212300eeded5f0cf961917</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-06-08 16:55:11</sys_updated_on>
+        <sys_updated_on>2018-11-06 00:58:30</sys_updated_on>
         <sys_version>2</sys_version>
         <template/>
         <type>email</type>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Notification_test" max_length="40" name="x_58872_needit_notification_test" type="collection">
+        <element label="No" max_length="999999" name="no" type="integer"/>
+        <element label="Notification" max_length="100000" name="notification" type="string"/>
+    </element>
+</database>

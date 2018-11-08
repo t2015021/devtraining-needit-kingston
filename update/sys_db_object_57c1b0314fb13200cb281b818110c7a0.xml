@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<record_update table="sys_db_object">
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
         <access/>
         <actions_access>false</actions_access>
@@ -23,6 +22,8 @@
         <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-29 19:59:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
         <sys_id>57c1b0314fb13200cb281b818110c7a0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Needit Historic</sys_name>
